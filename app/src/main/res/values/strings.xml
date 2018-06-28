@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">AttendenceServer</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main3">Main3Activity</string>
+
+
+    <string-array name="workoutypes">
+        <item>
+
+
+            SLOT 1
+
+
+
+        </item>
+
+
+
+
+        <item>
+
+
+
+            SLOT 2
+
+
+
+        </item>
+
+        <item>
+
+
+
+            SLOT 3
+
+
+
+        </item>
+
+        <item>
+
+
+
+            SLOT 4
+
+
+
+        </item>
+
+        <item>
+
+
+            SLOT 5
+
+
+
+        </item>
+
+        <item>
+
+
+
+            SLOT 6
+
+
+
+        </item>
+
+
+
+
+
+
+    </string-array>
+    <string name="title_activity_slot">SlotActivity</string>
+
+</resources>

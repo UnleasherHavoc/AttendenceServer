@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.application.attendenceserver.MainActivity">
+
+    <item
+        android:id="@+id/action_settings2"
+        android:orderInCategory="100"
+        android:title="CLEAR THIS SLOT"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_settings1"
+        android:orderInCategory="100"
+        android:title="CLEAR ALL RECORD"
+        app:showAsAction="never" />
+
+</menu>
